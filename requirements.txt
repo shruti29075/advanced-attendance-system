@@ -7,15 +7,12 @@ requests==2.32.5
 PyGithub==2.8.1
 matplotlib==3.10.7
 typing_extensions==4.15.0
-dateparser==1.2.0
 
-# LangChain stack
-langchain==0.2.16
-langchain-core==0.2.38
-langchain-community==0.2.16
-langchain-groq==0.1.6
-langchain-text-splitters==0.2.4
-langchain-google-genai==1.0.10
-
-setuptools==75.6.0
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+langchain-google-genai
 langgraph
+dateparser
