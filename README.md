@@ -103,3 +103,9 @@ Attendence/
 | **Logic** | Python 3.10+ | Core Application Logic |
 | **AI** | LangChain + Gemini | Data Analysis Chatbot |
 | **Viz** | Matplotlib | Custom Analytics Charts |
+
+[🔐 Open Admin Panel](advanced-attendance-system-for-teachers.streamlit.app)
+
+[🎓 Open Student Panel](advanced-attendance-system-for-student.streamlit.app)
+
+
